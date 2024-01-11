@@ -1,0 +1,6 @@
+
+p	java:S116"[Rename this field "DEFAULT_CAPACITY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(τυο
+7
+java:S1170"!Make this final field static too.(τυο
+J
+java:S1068"4Remove this unused "DEFAULT_CAPACITY" private field.(τυο
